@@ -5,9 +5,6 @@
 ////   Developer: Shubhra Yadav                                                                                         ////
 ////                                                                                                                    ////
 ////                                                                                                                    ////
-////                                                                                                                    ////
-////                                                                                                                    ////
-////                                                                                                                    ////
 ////   Date: 2/18/2018 7:42AM (PST)                                                                                     ////
 ////                 Editing comments and removing code not being used.                                                 ////
 ////                 Cleaning the program. Rearranging the methods.                                                     ////
